@@ -8,15 +8,12 @@ I am a Junior AI Engineer specializing in Generative AI and Machine Learning , f
 
 ## 🚀 What I Do
 
-* 
 **Generative AI & LLMs:** Engineered agentic WhatsApp systems using OpenAI Function Calling and MongoDB Atlas for autonomous inventory management.
 
 
-* 
 **Machine Learning & Data Science:** Proven track record in building predictive models for Dengue forecasting, rainfall, and customer churn.
 
 
-* 
 **End-to-End Deployment:** Developed No-Code Streamlit dashboards featuring real-time BI analytics and dynamic prompt/persona customization.
 
 
@@ -25,19 +22,16 @@ I am a Junior AI Engineer specializing in Generative AI and Machine Learning , f
 
 ## 🔧 Tech Stack
 
-* 
+
 **AI & ML:** Python (Scikit-learn, TensorFlow, Keras, Pandas, NumPy), ANN, Random Forest, Time-series Forecasting.
 
 
-* 
 **LLM Ecosystem:** OpenAI API, RAG (Retrieval-Augmented Generation), Prompt Engineering, Function Calling.
 
 
-* 
 **Web & Backend:** Node.js, Go, REST API, Streamlit, JavaScript, HTML/CSS.
 
 
-* 
 **Databases & Tools:** MySQL, Git, GitHub, MATLAB, EDA.
 
 
@@ -91,7 +85,6 @@ I am a Junior AI Engineer specializing in Generative AI and Machine Learning , f
 * **Publication:** *Prediksi Kasus Demam Berdarah Dengue di Kabupaten Bogor Menggunakan Metode ANN*, JISICOM Vol. 9 No. 2.
 
 
-* 
 **Certification:** BNSP National Certification - Junior Web Programmer (2025).
 
 
@@ -109,5 +102,3 @@ I am a Junior AI Engineer specializing in Generative AI and Machine Learning , f
 * 🔭 **Beyond the Screen:** When I'm not orchestrating AI workflows, I enjoy exploring new perspectives through drone technology and capturing the night sky with astrophotography.
 
 ---
-
-Apakah kamu ingin saya bantu menyiapkan draf deskripsi khusus (format *Action-Verb*) untuk diletakkan langsung ke dalam kolom *Experience* di akun LinkedIn-mu?
